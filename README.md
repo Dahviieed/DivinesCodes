@@ -1,1 +1,1 @@
-# DivinesCodes
+# DivineCodes
